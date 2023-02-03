@@ -31,3 +31,11 @@ if(friends.indexOf(252) !== -1){
 const newFriendsAge = [12, 13, 11, 13];
 const allFriends = newFriendsAge.concat(friends);
 console.log(allFriends);
+
+
+
+let sum=0; 
+for( let i = 0; i<=3;i++){ 
+sum = sum + i; 
+}
+console.log(sum);
