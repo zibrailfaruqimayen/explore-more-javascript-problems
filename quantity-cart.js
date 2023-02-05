@@ -2,7 +2,7 @@ const shoppingCart = [
    { name: 'shoe', price: 1200, quantity: 2 },
    { name: 'shirt', price: 2200, quantity: 5 },
    { name: 'pant', price: 3700, quantity: 4 },
-   { name: 'brlt', price: 700, quantity: 5 },
+   { name: 'belt', price: 700, quantity: 5 },
    ];
    
    function totalCost(products){
